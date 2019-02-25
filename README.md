@@ -54,4 +54,4 @@ sanctity: 1
 ```
 
 ## Note
-This website was intended to be very basic in order to focus on learning other fundamental concepts.
+This website was intended to be very basic in order to focus on learning the fundamental concepts of Django.
