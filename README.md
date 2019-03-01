@@ -2,7 +2,7 @@
 
 A simple website that will take user text as input, and output the total number of words in the block of text, as well as the frequency in which they appear. 
 
-This program was written to explore:
+I wrote this program to explore:
 * Python 3
 * Django
 * URL Routing in Django
